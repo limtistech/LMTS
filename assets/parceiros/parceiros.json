@@ -1,5 +1,6 @@
 [
-  { "arquivo": "crowdstrike.png", "badge": "Parceiro Autorizado" },
-  { "arquivo": "trendmicro.svg", "badge": "Revenda Oficial" },
-  { "arquivo": "kaspersky.png", "badge": "" }
+  { "arquivo": "CYREBRO.png", "badge": "Parceiro Autorizado" },
+  { "arquivo": "images.png", "badge": "Parceiro Autorizado" },
+  { "arquivo": "safetica.png", "badge": "Parceiro Autorizado" },
+  { "arquivo": "kaspersky.png", "badge": "Parceiro Autorizado" }
 ]
